@@ -3,7 +3,7 @@ h1 {
 }
 
 .title {
-    background-color: bisque;
+    background-color: rgb(106, 135, 168);
 }
 
 .center {
@@ -19,4 +19,29 @@ h1 {
 
 body {
     background-color: lightyellow;
+}
+
+.college {
+    background-color: rgb(24, 46, 87);
+    color: white
+}
+
+.btn {
+    background-color: rgb(231, 220, 190);
+}
+
+.skills {
+    list-style-position: inside;
+    list-style: url("imgs/diamond.png");
+}
+
+.extracurriculars {
+    text-align: left;
+    list-style-position: inside;
+    list-style: url("imgs/blue_arrow.png");
+}
+
+.project, .ec {
+    background-color: rgb(56, 108, 143);
+    color: papayawhip;
 }
