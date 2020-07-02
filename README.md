@@ -37,3 +37,5 @@ Project 4
 ------------------------------------------------------------------------------------------------------------------------------
 
 Final Project (Portfolio Website)
+
+  Personalized Portfolio Website created using HTML, CSS, Bootstrap, and Javascript. Includes pages listing my relevant courses and projects as well as extracurriculars.
